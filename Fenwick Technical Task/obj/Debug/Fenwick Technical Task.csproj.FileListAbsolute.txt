@@ -1,0 +1,7 @@
+C:\Abhishek\Programming Practise\Fenwick Programming Problem\Fenwick Technical Task\Fenwick Technical Task\bin\Debug\Fenwick Technical Task.exe.config
+C:\Abhishek\Programming Practise\Fenwick Programming Problem\Fenwick Technical Task\Fenwick Technical Task\bin\Debug\Fenwick Technical Task.exe
+C:\Abhishek\Programming Practise\Fenwick Programming Problem\Fenwick Technical Task\Fenwick Technical Task\bin\Debug\Fenwick Technical Task.pdb
+C:\Abhishek\Programming Practise\Fenwick Programming Problem\Fenwick Technical Task\Fenwick Technical Task\obj\Debug\Fenwick Technical Task.csprojAssemblyReference.cache
+C:\Abhishek\Programming Practise\Fenwick Programming Problem\Fenwick Technical Task\Fenwick Technical Task\obj\Debug\Fenwick Technical Task.csproj.CoreCompileInputs.cache
+C:\Abhishek\Programming Practise\Fenwick Programming Problem\Fenwick Technical Task\Fenwick Technical Task\obj\Debug\Fenwick Technical Task.exe
+C:\Abhishek\Programming Practise\Fenwick Programming Problem\Fenwick Technical Task\Fenwick Technical Task\obj\Debug\Fenwick Technical Task.pdb
